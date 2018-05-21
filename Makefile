@@ -1,5 +1,5 @@
 OBJS = Card.o Hand.o GenericPlayer.o Player.o House.o Deck.o Game.o main.o  
-CC = g++-5
+CC = g++
 DEBUG = -g 
 INCLUDE = -I./include
 SRC_FOLDER = ./src
